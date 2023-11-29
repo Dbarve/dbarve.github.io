@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Jason Ang",
+    "label": "Student",
+    "image": "",
+    "email": "jason8417@icloud.com",
+    "phone": "(239)-571-5152",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Naples",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "jasonang84",
+        "url": "https://www.linkedin.com/in/jasonang84/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "University of Florida",
+      "position": "Teacher Assistant",
+      "url": "https://ufl.edu",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "Lead and gave presentation for programming labs, helped students in office hours, graded students' projects/exams.",
+      "highlights": [
+        "Subject: Programming Fundamentals 1 (Python)"
+      ]
+    },
+    {
+      "name": "Prentice Lab",
+      "position": "Computational Research Assistant",
+      "url": "https://prentice.chem.ufl.edu/current-members-2/",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "Designed and managed user-friendly web app for users/clients, simplifying complex mass spectrometry data analysis. Collaborated with chemists to provide computational solutions, yielding unique insights into molecular pathology. Created intuitive interface for diverse users, enhancing accessibility to bioanalytical data."
+    },
+    {
+      "name": "LegendAI",
+      "position": "Co-Founder",
+      "url": "https://datalegendai.com",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "Creating the World's Most Accurate and Detailed Amazon Product Tracker for Amazon Sellers, helping them to unlock valuable insights and increase profits."
+    },
+    {
+      "name": "Naples Vascular Specialist",
+      "position": "Medical Assistant",
+      "url": "https://naplesvascular.com/",
+      "startDate": "2022-04-01",
+      "endDate": "2022-08-01",
+      "summary": "Consulted and extracted data from a variety of patients to supply the clinic’s medical database. Assisted in the OR room as a backup assistant by preparing and collecting medical equipment to be used before, during, and after surgery. Trained new medical assistant skills needed to succeed as my predecessor."
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Florida Honors Program",
+      "url": "https://ufl.edu",
+      "area": "Computer Science",
+      "studyType": "Undergraduate",
+      "startDate": "2022-01-01",
+      "endDate": "2026-01-01",
+      "gpa": "Your GPA",
+      "courses": [
+        "Data Structures and Algorithms",
+        "Natural Language Processing",
+        "Information and Database Systems",
+        "Probability/Computational Math",
+        "Intermediate Microeconomics"
+      ]
+    },
+    {
+      "institution": "Florida Gulf Coast University",
+      "url": "https://www.fgcu.edu/",
+      "area": "Dual Enrollments",
+      "studyType": "Undergraduate",
+      "startDate": "2022",
+      "endDate": "2020",
+      "courses": [
+        "Calculus 3",
+        "Physics 2",
+        "Chemistry 2",
+        "Biology 2",
+        "Linear Algebra"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+
+    "interests": [
+      {
+        "name": "Technology",
+        "keywords": ["Artificial Intelligence", "Software Engineering"],
+        "icon": "fas fa-star" 
+      },
+          {
+            "name": "Hobbies",
+            "keywords": ["Reading", "YouTube", "Golf", "Swimming"],
+            "icon": "fas fa-star"  
+          }    
+      
+    ],
+  
+  "references": [],
+  "projects": []
+}
